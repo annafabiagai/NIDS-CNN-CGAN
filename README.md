@@ -1,4 +1,5 @@
 **Can we "see" a cyberattack? **
+
 This project proves that treating network flows as images and processing them via Computer Vision outperforms traditional numerical analysis.
 
 This project explores the intersection of Cybersecurity and Deep Learning by redefining network flow analysis as an image classification problem. By transforming raw network traffic into visual representations, I leveraged Concatenated CNNs (Binary + Multiclass) to extract complex spatial features, achieving a **99.14% accuracy** rate on independent test sets—outperforming traditional numerical methods. 
